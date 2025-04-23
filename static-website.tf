@@ -1,7 +1,9 @@
+/*
 # Provider Block
 provider "azurerm" {
  features {}          
 }
+*/
 
 # Resource group creation
 resource "azurerm_resource_group" "myrg4" {
